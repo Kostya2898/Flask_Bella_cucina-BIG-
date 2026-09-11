@@ -1,0 +1,76 @@
+Copyright (c) 2026 Kostya2898. All rights reserved.
+
+PROPRIETARY AND CONFIDENTIAL
+ВЛАСНИЦЬКЕ ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ. УСІ ПРАВА ЗАСТЕРЕЖЕНО.
+
+--------------------------------------------------------------------------
+ENGLISH
+--------------------------------------------------------------------------
+
+This software and its source code are the exclusive property of the
+copyright holder. No license, express or implied, is granted to any
+person obtaining a copy of this software.
+
+You MAY NOT, without prior written permission from the copyright holder:
+
+  * use this software or any part of it, for any purpose, commercial or
+    non-commercial;
+  * copy, reproduce, publish or redistribute it, in whole or in part;
+  * modify, adapt, translate or create derivative works based on it;
+  * merge it into another work, or incorporate any portion of its code
+    into another project;
+  * sell, rent, lease, sublicense or otherwise transfer it;
+  * reverse engineer, decompile or disassemble it, except to the extent
+    such restriction is prohibited by applicable law;
+  * use it, or any derivative of it, to train machine learning models.
+
+Viewing this repository does not grant any of the rights listed above.
+Access granted to a specific person for review purposes (for example,
+academic evaluation) is limited to reading the code and does not permit
+copying, reuse or redistribution.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------
+УКРАЇНСЬКОЮ
+--------------------------------------------------------------------------
+
+Це програмне забезпечення та його вихідний код є винятковою власністю
+правовласника. Жодної ліцензії — ні прямої, ні такої, що мається на
+увазі, — нікому не надається.
+
+Без попереднього письмового дозволу правовласника ЗАБОРОНЕНО:
+
+  * використовувати це програмне забезпечення чи будь-яку його частину
+    з будь-якою метою, комерційною або некомерційною;
+  * копіювати, відтворювати, оприлюднювати чи поширювати його повністю
+    або частково;
+  * змінювати, адаптувати, перекладати або створювати похідні твори;
+  * включати його код, повністю чи частково, до іншого проєкту;
+  * продавати, здавати в оренду, субліцензувати чи іншим чином
+    передавати;
+  * здійснювати зворотну розробку, декомпіляцію чи дизасемблювання,
+    окрім випадків, коли така заборона суперечить законодавству;
+  * використовувати його або похідні від нього для навчання моделей
+    машинного навчання.
+
+Перегляд цього репозиторію не надає жодного з перелічених вище прав.
+Доступ, наданий конкретній особі для ознайомлення (наприклад, для
+academic evaluation — оцінювання навчальної роботи), обмежується
+читанням коду й не дозволяє копіювання, повторне використання чи
+поширення.
+
+ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ НАДАЄТЬСЯ «ЯК Є», БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ.
+ПРАВОВЛАСНИК НЕ НЕСЕ ВІДПОВІДАЛЬНОСТІ ЗА БУДЬ-ЯКІ ПРЕТЕНЗІЇ, ЗБИТКИ ЧИ
+ІНШІ ЗОБОВ'ЯЗАННЯ, ЩО ВИНИКАЮТЬ ІЗ ВИКОРИСТАННЯ ЦЬОГО ПРОГРАМНОГО
+ЗАБЕЗПЕЧЕННЯ.
+
+--------------------------------------------------------------------------
+
+Для отримання дозволу на використання зверніться до правовласника через
+GitHub: https://github.com/Kostya2898
